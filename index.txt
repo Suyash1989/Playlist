@@ -2,3 +2,6 @@
 step 1: create directory
 step 2: create git init
 step 3: create touch file1
+
+step 4: create more files, edit and add the
+step 5: mass commit all the filesm
