@@ -4,3 +4,5 @@ this is file3
 
 text has been added
 
+
+text is added again in 4th commit
