@@ -1,0 +1,4 @@
+
+step 1: create directory
+step 2: create git init
+step 3: create touch file1
